@@ -1,0 +1,5 @@
+{
+  "name": "Cliente de Venda ${unique}",
+  "cpf": "${unique}",
+  "status": "ACTIVE"
+}

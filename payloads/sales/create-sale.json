@@ -1,0 +1,7 @@
+{
+  "customerCpf": "${unique}",
+  "employeeRegistrationNumber": ${registration},
+  "bookTitle": "Livro de Venda ${unique}",
+  "bookAuthor": "Autor de Venda",
+  "saleDate": "2026-10-11"
+}

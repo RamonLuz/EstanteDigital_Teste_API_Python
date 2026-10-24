@@ -1,0 +1,5 @@
+{
+  "name": "Cliente Atualizado ${unique}",
+  "cpf": "${unique}",
+  "status": "INACTIVE"
+}

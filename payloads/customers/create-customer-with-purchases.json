@@ -1,0 +1,6 @@
+{
+  "name": "Cliente BDD ${unique}",
+  "cpf": "${unique}",
+  "status": "ACTIVE",
+  "purchases": []
+}

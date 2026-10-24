@@ -1,0 +1,7 @@
+{
+  "name": "Funcionario BDD ${unique}",
+  "cpf": "${unique}",
+  "registrationNumber": ${registration},
+  "position": "Atendente",
+  "status": "ACTIVE"
+}

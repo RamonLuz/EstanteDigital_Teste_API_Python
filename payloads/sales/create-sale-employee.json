@@ -1,0 +1,7 @@
+{
+  "name": "Vendedor ${unique}",
+  "cpf": "${unique}",
+  "registrationNumber": ${registration},
+  "position": "Vendedor",
+  "status": "ACTIVE"
+}
